@@ -18,5 +18,6 @@ jobs:
         with:
           COMMIT_MSG: 'chore: update activity feed'
           MAX_LINES: 10
+          FILTER_EVENTS: PushEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
