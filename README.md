@@ -32,6 +32,12 @@ I'm an **AI Engineer** passionate about building intelligent systems and leverag
 
 ---
 
+### 💻 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <h3 align="left">🚀 GitHub Stats</h3>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKM-990&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="AKM-990" />
