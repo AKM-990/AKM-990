@@ -1,59 +1,56 @@
-<h1 align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+AKM!;" /> 
-</h1>
+<div align="center">
+  <a href="https://github.com/AKM-990">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+AKM!;" alt="Typing SVG" />
+  </a>
+</div>
 
-### 🤖 About Me  
+<p align="center">
+  <a href="https://github.com/AKM-990?tab=followers"><img src="https://img.shields.io/github/followers/AKM-990?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/AKM-990/AKM-990/stargazers"><img src="https://img.shields.io/github/stars/AKM-990/AKM-990?style=social" alt="Repo Stars"></a>
+</p>
 
+---
+
+### 🤖 About Me
 I'm an **AI Engineer** passionate about building intelligent systems and leveraging data to solve real-world problems. My focus is on creating scalable, production-ready AI solutions.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+### 🛠️ My Tech Stack
+
 <p align="center">
-<!-- Add your social media links here -->
-<!-- Example: <a href="https://www.linkedin.com/in/your-username/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a> -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,docker,gcp,aws,bash,git,mongodb,redis,nginx,linux" />
+  </a>
 </p>
 
 ---
 
-<h2 align="center">
-    🛠️ My Tech Stack 🛠️
-</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,docker,gcp,aws,bash,git" />
-</div>
+### 📊 My GitHub Stats
 
----
-
-### 💻 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<h3 align="left">🚀 GitHub Stats</h3>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKM-990&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="AKM-990" />
-</p>
-<p align="center">
-    &nbsp; 
-    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=AKM-990&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="readme stats" />
-</p>
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKM-990&theme=highcontrast" alt="AKM-990" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AKM-990&show_icons=true&theme=highcontrast&rank_icon=github" alt="AKM-990's GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKM-990&layout=compact&theme=highcontrast" alt="Top Languages"/>
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=AKM-990&theme=highcontrast" alt="GitHub Streak"/>
 </p>
 
 ---
+
+### 💻 Real-time Coding Activity (WakaTime)
+<!-- WAKATIME:STATS -->
+**Coming soon!** This section will automatically display my coding activity.
+<!-- WAKATIME:END -->
+
+---
+
+### 🐍 My Contribution Graph
 
 <div align="center">
-    <h2>🐍 My Contributions 🐍</h2>
-    <br>
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/AKM-990/AKM-990/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AKM-990/AKM-990/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
+
