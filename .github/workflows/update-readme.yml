@@ -6,18 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme-with-activity:
+    name: Update README with recent activity
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    name: Update README
-
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          COMMIT_MSG: 'chore: update activity feed'
-          MAX_LINES: 10
-          FILTER_EVENTS: PushEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          feed_list: "https://github.com/AKM-990.atom"
+          max_post_count: 5
+          commit_message: "chore: update activity feed"
+          readme_path: "./README.md"
+          template: "$newline- $title$newline"
+          comment_tag_name: "activity"
