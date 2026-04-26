@@ -8,11 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     name: Update README
 
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@v1
+      - uses: jamesgeorge007/github-activity-readme@master
         with:
           COMMIT_MSG: 'chore: update activity feed'
           MAX_LINES: 10
